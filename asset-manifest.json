@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tarunkishore2303/CovidApp/static/css/main.c62d7d5f.chunk.css",
+    "main.js": "/tarunkishore2303/CovidApp/static/js/main.5d1800f1.chunk.js",
+    "main.js.map": "/tarunkishore2303/CovidApp/static/js/main.5d1800f1.chunk.js.map",
+    "runtime-main.js": "/tarunkishore2303/CovidApp/static/js/runtime-main.63bfd41f.js",
+    "runtime-main.js.map": "/tarunkishore2303/CovidApp/static/js/runtime-main.63bfd41f.js.map",
+    "static/css/2.7c35e809.chunk.css": "/tarunkishore2303/CovidApp/static/css/2.7c35e809.chunk.css",
+    "static/js/2.74ef2ba9.chunk.js": "/tarunkishore2303/CovidApp/static/js/2.74ef2ba9.chunk.js",
+    "static/js/2.74ef2ba9.chunk.js.map": "/tarunkishore2303/CovidApp/static/js/2.74ef2ba9.chunk.js.map",
+    "index.html": "/tarunkishore2303/CovidApp/index.html",
+    "precache-manifest.8624734147c9162cbf845aa639834100.js": "/tarunkishore2303/CovidApp/precache-manifest.8624734147c9162cbf845aa639834100.js",
+    "service-worker.js": "/tarunkishore2303/CovidApp/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/tarunkishore2303/CovidApp/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.c62d7d5f.chunk.css.map": "/tarunkishore2303/CovidApp/static/css/main.c62d7d5f.chunk.css.map",
+    "static/js/2.74ef2ba9.chunk.js.LICENSE.txt": "/tarunkishore2303/CovidApp/static/js/2.74ef2ba9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63bfd41f.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.74ef2ba9.chunk.js",
+    "static/css/main.c62d7d5f.chunk.css",
+    "static/js/main.5d1800f1.chunk.js"
+  ]
+}
