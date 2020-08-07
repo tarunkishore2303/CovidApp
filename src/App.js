@@ -32,7 +32,7 @@ function App() {
 	const [mapCountries, setMapCountries] = useState([]);
 	const [casesType, setCasesType] = useState("cases");
 	useEffect(() => {
-		fetch("http://disease.sh/v3/covid-19/all")
+		fetch("https://disease.sh/v3/covid-19/all")
 			.then((response) => {
 				return response.json();
 			})
@@ -42,8 +42,8 @@ function App() {
 	}, []);
 
 	useEffect(() => {
-		const fetchData = async () => {
-			await fetch("http://disease.sh/v3/covid-19/countries")
+		const fetchData = () => {
+			fetch("https://disease.sh/v3/covid-19/countries")
 				.then((response) => {
 					return response.json();
 				})

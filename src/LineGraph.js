@@ -96,7 +96,7 @@ function LineGraph({ casesTypes = "cases", ...props }) {
 		};
 
 		fetchData();
-	}, [casesTypes]);
+	});
 
 	return (
 		<div className={props.className}>
