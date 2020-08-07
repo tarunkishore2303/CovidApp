@@ -15,6 +15,7 @@ import { sortData, prettyPrintStat, prettyPrintStatForTotal } from "./util";
 import Table from "./Table";
 import "./App.css";
 import "leaflet/dist/leaflet.css";
+import Footer from "./Footer";
 
 const theme = createMuiTheme({
 	palette: {
@@ -149,6 +150,7 @@ function App() {
 					</CardContent>
 				</Card>
 			</div>
+			<Footer className='footer' />
 		</ThemeProvider>
 	);
 }
