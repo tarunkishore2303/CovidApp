@@ -43,8 +43,13 @@ function App() {
 	}, []);
 
 	useEffect(() => {
+<<<<<<< HEAD
 		const fetchData = () => {
 			fetch("https://disease.sh/v3/covid-19/countries")
+=======
+		const fetchData = async () => {
+			await fetch("https://disease.sh/v3/covid-19/countries")
+>>>>>>> 189c91108cec361a6852e0440c11a9bfdd7ca1d5
 				.then((response) => {
 					return response.json();
 				})
