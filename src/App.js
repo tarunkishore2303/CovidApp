@@ -44,13 +44,6 @@ function App() {
 
 	useEffect(() => {
 
-		const fetchData = () => {
-			fetch("https://disease.sh/v3/covid-19/countries")
-
-
-		const fetchData = () => {
-			fetch("https://disease.sh/v3/covid-19/countries")
-
 		const fetchData = async () => {
 			await fetch("https://disease.sh/v3/covid-19/countries")
 
