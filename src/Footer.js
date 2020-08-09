@@ -7,7 +7,7 @@ function Footer() {
 			<a href='https://www.linkedin.com/in/tarun-kishore-b9304a196/'>
 				Contact Developer |
 			</a>
-			<a href='https:/disease.sh'> Source</a>
+			<a href='https://disease.sh'> Source</a>
 		</div>
 	);
 }
