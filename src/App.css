@@ -2,6 +2,10 @@
 	margin: 0;
 }
 
+h1 {
+	font-family: "Lato", sans-serif;
+}
+
 .App {
 	display: flex;
 	justify-content: space-evenly;
@@ -54,7 +58,7 @@ body {
 
 .footer {
 	position: absolute;
-	bottom: 0px;
+	justify-content: center;
 }
 
 @media (max-width: 990px) {
